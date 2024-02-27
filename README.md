@@ -1,10 +1,10 @@
 ### Hola mundo 👋
+- Estudiante de Ultimo año de preparatoria
+- 17 años
+- Mexico
 
 <!--
 **CharlieOg/CharlieOg** is a ✨ _special_ ✨ 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
