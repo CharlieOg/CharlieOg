@@ -1,6 +1,6 @@
 ### Hola mundo 👋
 
-- "🚀 Apasionado por la programación y la tecnología. Buscando constantemente aprender y crecer en el mundo del desarrollo de software. ✨"
+"🚀 Apasionado por la programación y la tecnología. Buscando constantemente aprender y crecer en el mundo del desarrollo de software. ✨"
 
 "🌱 Estudiante de informática explorando los infinitos caminos del código. En busca de nuevas oportunidades para colaborar y contribuir. 💡"
 
