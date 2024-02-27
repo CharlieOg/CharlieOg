@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hola mundo 👋
 
 <!--
-**CharlieOg/CharlieOg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CharlieOg/CharlieOg** is a ✨ _special_ ✨ 
 
 Here are some ideas to get you started:
 
